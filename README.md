@@ -1,0 +1,1 @@
+Project practicing only  JavaScript 
